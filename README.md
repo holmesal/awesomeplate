@@ -1,4 +1,4 @@
-Coffeescript + Backbone + Require Boilerplate
+Awesomeplate: Coffeescript + Backbone + Require Boilerplate
 ==============
 
 Simple structure and starter templates

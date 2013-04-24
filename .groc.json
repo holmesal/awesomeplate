@@ -4,5 +4,5 @@
   			"coffee/**/*.coffee",
   			"coffee/**/**/*.coffee"],
   "github": true,
-  "repository-url": "https://github.com/holmesal/coffeescript-backbone-require-boilerplate"
+  "repository-url": "https://github.com/holmesal/awesomeplate"
 }
