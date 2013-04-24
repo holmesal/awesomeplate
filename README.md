@@ -4,12 +4,12 @@ Coffeescript + Backbone + Require Boilerplate
 Simple structure and starter templates
 
 
-Watching coffeescript files
+Watching coffeescript files:
 ------------------
 
 Just run `coffee -o js/ -cw coffee/` from the project root to automatically watch your coffeescript files and copy them into the `js` folder.
 
-Building documentation with groc
+Building documentation with groc:
 ------------------
 
 Configure `.groc.json` to your liking (note that you need to handle nested folders yourself) and run `groc` from the command line to build.
