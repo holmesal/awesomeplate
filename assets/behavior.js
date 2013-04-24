@@ -20,13 +20,21 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "type": "heading",
           "data": {
             "level": 1,
-            "title": "Awesomeplate: Coffeescript + Backbone + Require Boilerplate",
-            "slug": "awesomeplate-coffeescript--backbone--require-boilerplate",
+            "title": "Awesomeplate",
+            "slug": "awesomeplate",
             "isFileHeader": true
           },
           "depth": 1,
           "children": [
             {
+              "type": "heading",
+              "data": {
+                "level": 2,
+                "title": "Coffeescript + Backbone + Require Boilerplate",
+                "slug": "coffeescript--backbone--require-boilerplate"
+              },
+              "depth": 2
+            }, {
               "type": "heading",
               "data": {
                 "level": 2,
@@ -45,11 +53,19 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
             }
           ]
         },
-        "title": "Awesomeplate: Coffeescript + Backbone + Require Boilerplate"
+        "title": "Awesomeplate"
       },
       "depth": 1,
       "outline": [
         {
+          "type": "heading",
+          "data": {
+            "level": 2,
+            "title": "Coffeescript + Backbone + Require Boilerplate",
+            "slug": "coffeescript--backbone--require-boilerplate"
+          },
+          "depth": 2
+        }, {
           "type": "heading",
           "data": {
             "level": 2,
