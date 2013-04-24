@@ -13,15 +13,15 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "commentsOnly": true,
           "name": "Markdown"
         },
-        "sourcePath": "/Users/alonsoholmes/github/coffescript-backbone-require-boilerplate/README.md",
+        "sourcePath": "/Users/alonsoholmes/github/awesomeplate/README.md",
         "projectPath": "README.md",
         "targetPath": "index",
         "firstHeader": {
           "type": "heading",
           "data": {
             "level": 1,
-            "title": "Coffeescript + Backbone + Require Boilerplate",
-            "slug": "coffeescript--backbone--require-boilerplate",
+            "title": "Awesomeplate: Coffeescript + Backbone + Require Boilerplate",
+            "slug": "awesomeplate-coffeescript--backbone--require-boilerplate",
             "isFileHeader": true
           },
           "depth": 1,
@@ -30,7 +30,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "type": "heading",
               "data": {
                 "level": 2,
-                "title": "Watching coffeescript files",
+                "title": "Watching coffeescript files:",
                 "slug": "watching-coffeescript-files"
               },
               "depth": 2
@@ -38,14 +38,14 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "type": "heading",
               "data": {
                 "level": 2,
-                "title": "Building documentation with groc",
+                "title": "Building documentation with groc:",
                 "slug": "building-documentation-with-groc"
               },
               "depth": 2
             }
           ]
         },
-        "title": "Coffeescript + Backbone + Require Boilerplate"
+        "title": "Awesomeplate: Coffeescript + Backbone + Require Boilerplate"
       },
       "depth": 1,
       "outline": [
@@ -53,7 +53,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "type": "heading",
           "data": {
             "level": 2,
-            "title": "Watching coffeescript files",
+            "title": "Watching coffeescript files:",
             "slug": "watching-coffeescript-files"
           },
           "depth": 2
@@ -61,7 +61,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "type": "heading",
           "data": {
             "level": 2,
-            "title": "Building documentation with groc",
+            "title": "Building documentation with groc:",
             "slug": "building-documentation-with-groc"
           },
           "depth": 2
@@ -76,7 +76,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "singleLineComment": ["#"],
           "name": "CoffeeScript"
         },
-        "sourcePath": "/Users/alonsoholmes/github/coffescript-backbone-require-boilerplate/coffee/app.coffee",
+        "sourcePath": "/Users/alonsoholmes/github/awesomeplate/coffee/app.coffee",
         "projectPath": "coffee/app.coffee",
         "targetPath": "app",
         "title": "app"
@@ -102,7 +102,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "singleLineComment": ["#"],
           "name": "CoffeeScript"
         },
-        "sourcePath": "/Users/alonsoholmes/github/coffescript-backbone-require-boilerplate/coffee/boilerplate.coffee",
+        "sourcePath": "/Users/alonsoholmes/github/awesomeplate/coffee/boilerplate.coffee",
         "projectPath": "coffee/boilerplate.coffee",
         "targetPath": "boilerplate",
         "title": "boilerplate"
@@ -128,7 +128,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "singleLineComment": ["#"],
           "name": "CoffeeScript"
         },
-        "sourcePath": "/Users/alonsoholmes/github/coffescript-backbone-require-boilerplate/coffee/main.coffee",
+        "sourcePath": "/Users/alonsoholmes/github/awesomeplate/coffee/main.coffee",
         "projectPath": "coffee/main.coffee",
         "targetPath": "main",
         "title": "main"
@@ -154,7 +154,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "singleLineComment": ["#"],
           "name": "CoffeeScript"
         },
-        "sourcePath": "/Users/alonsoholmes/github/coffescript-backbone-require-boilerplate/coffee/router.coffee",
+        "sourcePath": "/Users/alonsoholmes/github/awesomeplate/coffee/router.coffee",
         "projectPath": "coffee/router.coffee",
         "targetPath": "router",
         "title": "router"
