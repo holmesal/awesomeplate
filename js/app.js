@@ -4,8 +4,8 @@
     var initialize;
 
     initialize = function() {
-    	console.log("init!")
       Router.initialize();
+      return console.log('hey');
     };
     return {
       initialize: initialize

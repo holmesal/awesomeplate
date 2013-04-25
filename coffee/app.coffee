@@ -19,6 +19,8 @@ define [
 		# Initialize the router
 		Router.initialize()
 
+		console.log 'hey'
+
 	# Return some other shit
 	return {
 		initialize: initialize
